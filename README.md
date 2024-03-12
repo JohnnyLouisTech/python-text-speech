@@ -2,6 +2,8 @@
 ## Project Description:
 Developed a Python script that fetches jokes from the "Official Joke API", processes the retrieved JSON data, and then narrates the jokes using text-to-speech technology. The script utilizes the requests and json modules to retrieve and parse the joke data, while pyttsx3 is employed for the text-to-speech functionality. Additionally, a Joke class is defined to encapsulate each joke's setup and punchline, enhancing code readability and organization. This project demonstrates proficiency in web data retrieval, JSON parsing, object-oriented programming, and integration of text-to-speech capabilities in Python.
 
+pip install requests pyttsx3 #If you haven't done so yet
+
 ![textspeech](https://github.com/JohnnyLouisTech/python-text-speech/assets/29494723/0ad3dcbe-67b5-44fe-b9d1-3c94240e1dcf)
 
 Run the provided Python code:
