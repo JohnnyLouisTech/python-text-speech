@@ -14,4 +14,6 @@ Open a terminal or command prompt.
 Navigate to the directory where you saved the Python script using the cd command.
 Run the script by typing python textspeech.py (however you saved) and press Enter.
 The script will execute, fetching jokes from the API, processing the data, and narrating the jokes using text-to-speech.
+
+
 ** Ensure you have an active internet connection while running the script to fetch jokes from the API. Additionally, you may need to install the required Python packages (requests and pyttsx3) if you haven't already. You can install them using pip
